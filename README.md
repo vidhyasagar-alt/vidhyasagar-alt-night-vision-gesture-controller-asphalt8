@@ -12,7 +12,7 @@
 
 ## 🎮 Demo
 
-📹 **Watch it in action:** (https://youtu.be/4Ni2UHpvAhI))*
+📹 **Watch it in action:** [Click here to watch demo](https://youtu.be/4Ni2UHpvAhI))*
 
 ---
 
