@@ -12,7 +12,7 @@
 
 ## 🎮 Demo
 
-📹 **Watch it in action:** [Click here to watch demo](https://youtu.be/4Ni2UHpvAhI))*
+📹 **Watch it in action:** [Click here to watch demo](https://youtu.be/4Ni2UHpvAhI)
 
 ---
 
@@ -210,10 +210,19 @@ frame = cv2.GaussianBlur(frame, (5,5), 0)
 
 ## 👨‍💻 About the Developer
 
+<div align="center">
+
 **Vidhya Sagar**
-🎓 Final Year ECE Student — Podhigai College of Engineering and Technology
+
+🎓 Final Year B.E. ECE Student (Graduating April 2026) &nbsp;|&nbsp; 🏫 Podhigai College of Engineering and Technology
+
 💡 Passionate about AI, Computer Vision and Embedded Systems
-🔗 GitHub: [@vidhyasagar-alt](https://github.com/vidhyasagar-alt)
+
+[![GitHub](https://img.shields.io/badge/GitHub-vidhyasagar--alt-black?style=for-the-badge&logo=github)](https://github.com/vidhyasagar-alt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidhya-sagar-4bba5339b)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vidhyasagarboomi@gmail.com)
+
+</div>
 
 ---
 
@@ -223,6 +232,10 @@ This project is licensed under the MIT License — feel free to use, modify and 
 
 ---
 
-⭐ If this project helped you or impressed you, please give it a star!
+<div align="center">
 
-*Made with ❤️ and a lot of late nights by Vidhya Sagar*
+⭐ **If this project helped you or impressed you, please give it a star!** ⭐
+
+Made with ❤️ and a lot of late nights by **Vidhya Sagar** — ECE Department, Podhigai College of Engineering and Technology
+
+</div>
